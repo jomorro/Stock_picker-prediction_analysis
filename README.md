@@ -21,11 +21,11 @@ This project utilizes the Yahoo Finance API to fetch historical stock data for w
 
 1. Clone the repository:
    
-           git clone https://github.com/yourusername/water-infrastructure-stock-prediction.git
+           git clone https://github.com/yourusername/Stock_picker-prediction_analysis.git
 
 3. Navigate to the project directory:
    
-           cd water-infrastructure-stock-prediction
+           cd Stock_picker-prediction_analysis
 
 4. Create a virtual environment (optional but recommended):
    
